@@ -1,46 +1,85 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline: Resume & Notes
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+William James Sadowski
+======================
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+E-mail:		sadowswi01@gmail.com
+Phone:		(904) 525-5609
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+Address:	505 N 9th Street
+			Klamath Falls, OR 97601
 
 
+Work experience
+========================
+	> Sadowski & Associates (July 2013 - August 2013), Lab Assistant
+		Prepared, processed and analyzed mineral and soil samples for content and
+		grain size ratios. Additionally, assisted in maintanance and rebuilds of
+		heavy industrial machinery, deployment and troubleshooting of PLC-based
+		automation systems
+
+	--------
+
+	> Florida Engineering and Design, Inc (June 2012 - August 2012), Intern
+		Trained in several engineering tasks, such as blueprint unit conversions
+		and draft replication in AutoCAD.
+
+	--------
+
+	> Oututec, Inc. (June 2011 - September 2011), IT Assistant
+		Configured and deployed new computer systems for enterprise usage,
+		including driver configuration, desktop environment configuration and disk
+		encryption. Additionally, securely decommissioned obsolete systems.
+
+Qualifications
+========================
+	> Trained in enterprise-level Windows configuration (Driver configuration,
+	disk encryption with Truecrypt/Veracrypt)
+
+	--------
+
+	> Trained in secure decomissioning of both Windows and Linux-based systems, including data and
+	hardware destruction
+
+	--------
+
+	> Fluent with Microsoft Office and equivalents (Libreoffice,
+	Openoffice)
+
+	--------
+
+	> Experienced with PC hardware maintenance and configuration,
+	including installation of new components as well as design, testing and
+	installation of exotic cooling systems for high performance requirements
+	and overclocked hardware.
+
+Awards
+========================
+	Intel International Science Fair
+		> 2012 - Special Award - Air Force Corps of Engineers
+		> 2011 - 2nd Place, Northeast Florida Regional Fair
+		> 2011 - Special Award - Air Force Corps of Engineers
+
+Interests
+========================
+	Electronics work has been a hobby of mine for quite some time; in the past
+	I've developed projects including a Bluetooth-enabled fan controller for
+	high-powered computer systems and a radio-based low-cost GPS alternative.
+	Currently, I am designing a clock that uses high-voltage Nixie tubes for
+	display elements. I am self-taught, but plan on pursuing formal education
+	in the field.
+
+References
+========================
+	Robert DAiello - President
+	Florida Engineering and Design
+	(863) 665-6363
+
+	Jim Sadowski - Managing Partner
+	Sadowski and Associates
+	(715) 383-5088

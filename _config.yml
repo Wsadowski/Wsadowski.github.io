@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Will Sadowski's Personal Blog
+tagline: 
 author :
   name : Will Sadowski
   email : william.james.sadowski@live.mercer.edu
