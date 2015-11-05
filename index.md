@@ -16,7 +16,7 @@ Address:	505 N 9th Street
 			Klamath Falls, OR 97601
 
 
-Work experience
+Work Experience
 ========================
 	> Sadowski & Associates (July 2013 - August 2013), Lab Assistant
 		Prepared, processed and analyzed mineral and soil samples for content and
@@ -59,12 +59,17 @@ Qualifications
 	installation of exotic cooling systems for high performance requirements
 	and overclocked hardware.
 
+	--------
+
+	> Experienced in static blog configuration with Jekyll & Ruby
+
 Awards
 ========================
 	Intel International Science Fair
 		> 2012 - Special Award - Air Force Corps of Engineers
 		> 2011 - 2nd Place, Northeast Florida Regional Fair
 		> 2011 - Special Award - Air Force Corps of Engineers
+	2013 - Duke TIP Semifinalist
 
 Interests
 ========================
@@ -84,3 +89,7 @@ References
 	Jim Sadowski - Managing Partner
 	Sadowski and Associates
 	(715) 383-5088
+
+	Jeff Mortimore - Education Coordinator
+	Dragonfly Transitions
+	(541) 850-0841
