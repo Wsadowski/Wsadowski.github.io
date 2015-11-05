@@ -69,7 +69,8 @@ Awards
 		> 2012 - Special Award - Air Force Corps of Engineers
 		> 2011 - 2nd Place, Northeast Florida Regional Fair
 		> 2011 - Special Award - Air Force Corps of Engineers
-	2013 - Duke TIP Semifinalist
+	2013 - National Merit Scholar Semifinalist
+	2013 - Mercer University Presidential Scholar
 
 Interests
 ========================
