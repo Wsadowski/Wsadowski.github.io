@@ -100,7 +100,7 @@ Contact Me
 =========================
 
 <ul class="contacts">
-	<form action="http://formspree.io/sadowswi01@gmail.com">
+	<form action="http://formspree.io/sadowswi01@gmail.com" method="POST">
 	  <input type="email" name="_replyto" placeholder="Your email">
 		<input type="text" name="_gotcha" style="display:none" />
 	  <textarea name="body"></textarea>
