@@ -75,7 +75,7 @@ Interests
 
 References
 ========================
-	# Robert DAiello - President
+	Robert DAiello - President
 	--------------------------
 	Florida Engineering and Design
 	(863) 665-6363
