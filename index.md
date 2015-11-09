@@ -57,7 +57,7 @@ Qualifications
 
 Awards
 ========================
-	# Intel International Science Fair #
+	Intel International Science Fair
 		> 2012 - Special Award - Air Force Corps of Engineers
 		> 2011 - 2nd Place, Northeast Florida Regional Fair
 		> 2011 - Special Award - Air Force Corps of Engineers
@@ -75,7 +75,7 @@ Interests
 
 References
 ========================
-	# Robert DAiello - President #
+	# Robert DAiello - President
 	--------------------------
 	Florida Engineering and Design
 	(863) 665-6363
