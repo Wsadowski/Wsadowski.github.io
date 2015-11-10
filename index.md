@@ -92,12 +92,18 @@ References
 
 Contact Me
 =========================
-
-<ul class="contacts">
-	<form action="http://formspree.io/sadowswi01@gmail.com" method="POST">
-	  <input type="email" name="_replyto" placeholder="Your email">
-		<input type="text" name="_gotcha" style="display:none" placeholder="Your message" />
-	  <textarea name="body"></textarea>
-	  <input type="submit" value="Send">
-	</form>
-</ul>
+<div class="row section">
+		<div class="container narrow block">
+				<div class="col-1-2">
+					<p>Fill out the form below with your email and message, and I'll get back to you as soon as possible.</p>
+				</div>
+				<div class="col-1-2">
+					<form method="POST" action="http://formspree.io/sadowswi01@gmail.com">
+						<input type="email" name="_replyto" placeholder="Your email" />
+						<textarea name="message" rows="5" placeholder="Your message"></textarea>
+						<input type="text" name="_gotcha" style="display:none">
+						<button type="submit">Send</button>
+					</form>
+				</div>
+		</div>
+</div>
