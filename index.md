@@ -96,7 +96,7 @@ Contact Me
 <ul class="contacts">
 	<form action="http://formspree.io/sadowswi01@gmail.com" method="POST">
 	  <input type="email" name="_replyto" placeholder="Your email">
-		<input type="text" name="_gotcha" style="display:none" />
+		<input type="text" name="_gotcha" style="display:none" placeholder="Your message" />
 	  <textarea name="body"></textarea>
 	  <input type="submit" value="Send">
 	</form>
